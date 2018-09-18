@@ -1,27 +1,45 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# This is a heading
+  
+  hello
+  
+## This is the equivalent of a H2
+### This is the equivalent of a H3
+
+###### This is the equivalent of a H6
+
+[this is a link]("https:www.google.com")
+<a href="" target="_blank"> This is another link</a>
+
+* This is a bullet list
+* So is this
+* And this
+
++ These are bullets too!
++ So are these
+
+1. this is a numbered list
+1. So is this
+1. Here is number 3
+
+*This is a italic text*
+**bold text**
+***Bold in italic***
+
+- [x] Finish my changes
+- 
 
 
-Hi there! Welcome to Cloud9 IDE!
+```<h1>Hello, World</h1>```
 
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
+```
+<p>
+        <h1>Welcome to Indian Spice!</h1>
+</p>
 
 
-## Support & Documentation
+```CSS
+body{
+    background-color: red;
+}
 
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
-# day6-sept2018
+# day6-septemeber2018
